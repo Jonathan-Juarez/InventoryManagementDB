@@ -1,7 +1,7 @@
 #API básica en Node.js con Express y MongoDB
 
 ##Funcionamiento
-El funcionamiento de este trabajo se conforma por una estructura específica para una compresión eficiente del código de la API. La estructura se encuentra con el config que conecta al servidor local mongoDB, los modelos que poseen la estructura del documento de dica colección, los controladores que contienen las funciones del CRUD y se exporta para que el enrutador proporcione rutas que utilizará el servidor que permitirá usar el API. Para agregar documentos se realiza por medio de Thunder Client.
+El funcionamiento de este trabajo se conforma por una estructura específica para una compresión eficiente del código de la API. Hay que crear un .env para agregar la dirección URL de la base de datos (DB)La estructura se encuentra con el config que conecta al servidor local mongoDB, los modelos que poseen la estructura del documento de dica colección, los controladores que contienen las funciones del CRUD y se exporta para que el enrutador proporcione rutas que utilizará el servidor que permitirá usar el API. Para agregar documentos se realiza por medio de Thunder Client.
 
 ##Tecnologías empleadas
 Se utiliza Node.js es un entorno de ejecución de JavaScript.
